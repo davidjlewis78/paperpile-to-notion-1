@@ -1,5 +1,5 @@
 notion_property,property_type,bibtex_field
-Reference ID,title,ID
-Title,rich_text,title
+Reference ID,rich_txt,ID
+Title,title,title
 Authors,rich_text,author
 Year,rich_text,year
